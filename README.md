@@ -1,0 +1,1 @@
+This repository demonstrates how to integrate image upload functionality into the Froala WYSIWYG editor. Froala Editor is a lightweight, user-friendly rich text editor with powerful image handling capabilities. The repository provides step-by-step instructions on setting up and customizing image uploads,
